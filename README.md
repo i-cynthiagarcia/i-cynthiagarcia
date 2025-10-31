@@ -4,6 +4,7 @@
 
 #### I'm Cynthia, and I code.
 
+
 #### Stack
 <p>
   <!-- JS -->
@@ -48,6 +49,7 @@
    </p>
 
 
+
 #### I am currently working on...
 - Automata
 - Data Visualizations
@@ -56,9 +58,11 @@
 - Testing
 
 
+
 #### Research
 - University of Texas, RGV, Edingburg, TX, USA
 - University of North Texas, Denton, TX, USA
+
 
 
 #### How to reach me:
