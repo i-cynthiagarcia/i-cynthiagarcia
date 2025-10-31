@@ -1,9 +1,6 @@
 ## Hello, world! 👋
 
----
-
 ### I'm Cynthia, and I code.
-
 
 ### Stack
 <p>
@@ -48,8 +45,6 @@
         &nbsp;
    </p>
 
-
-
 ### I am currently working on...
 - Automata
 - Data Visualizations
@@ -57,13 +52,9 @@
 - Information Retrieval 
 - Testing
 
-
-
 ### Research
 - University of Texas, RGV, Edingburg, TX, USA
 - University of North Texas, Denton, TX, USA
-
-
 
 ### How to reach me:
 - **Email:** [i.CynthiaGarcia@gmail.com](mailto:i.cynthiagarcia@gmail.com)
