@@ -5,9 +5,7 @@
 #### I'm Cynthia, and I code.
 
 #### Stack
-
 <p>
-    <br>
   <!-- JS -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JS" />
     &nbsp;
@@ -47,20 +45,21 @@
     <!-- Heroku -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="32" alt="Heroku" />
         &nbsp;
-
    </p>
 
 
 #### I am currently working on...
-Data Visualizations
-Development and Operations
-Information Retrieval 
-Testing
+- Automata
+- Data Visualizations
+- Development and Operations
+- Information Retrieval 
+- Testing
 
 
 ### Research
-- University of Texas, RGV, Edingburg, TX
+- University of Texas, RGV, Edingburg, TX, USA
+- University of North Texas, Denton, TX, USA
 
 
 #### How to reach me:
-- **Email me:** [i.CynthiaGarcia@gmail.com](mailto:i.cynthiagarcia@gmail.com)
+- **Email:** [i.CynthiaGarcia@gmail.com](mailto:i.cynthiagarcia@gmail.com)
