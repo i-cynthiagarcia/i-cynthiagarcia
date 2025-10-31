@@ -1,4 +1,4 @@
-### Hello, you! 👋
+### Hello, world! 👋
 
 ---
 
@@ -56,7 +56,7 @@
 - Testing
 
 
-### Research
+#### Research
 - University of Texas, RGV, Edingburg, TX, USA
 - University of North Texas, Denton, TX, USA
 
