@@ -1,11 +1,11 @@
-### Hello, world! 👋
+## Hello, world! 👋
 
 ---
 
-#### I'm Cynthia, and I code.
+### I'm Cynthia, and I code.
 
 
-#### Stack
+### Stack
 <p>
   <!-- JS -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JS" />
@@ -50,7 +50,7 @@
 
 
 
-#### I am currently working on...
+### I am currently working on...
 - Automata
 - Data Visualizations
 - Development and Operations
@@ -59,11 +59,11 @@
 
 
 
-#### Research
+### Research
 - University of Texas, RGV, Edingburg, TX, USA
 - University of North Texas, Denton, TX, USA
 
 
 
-#### How to reach me:
+### How to reach me:
 - **Email:** [i.CynthiaGarcia@gmail.com](mailto:i.cynthiagarcia@gmail.com)
