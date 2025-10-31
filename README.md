@@ -4,8 +4,6 @@
 
 #### I'm Cynthia, and I code.
 
----
-
 #### Stack
 
 <p>
@@ -52,7 +50,6 @@
 
    </p>
 
----
 
 #### I am currently working on...
 Data Visualizations
@@ -60,12 +57,10 @@ Development and Operations
 Information Retrieval 
 Testing
 
----
 
 ### Research
 - University of Texas, RGV, Edingburg, TX
 
----
 
 #### How to reach me:
 - **Email me:** [i.CynthiaGarcia@gmail.com](mailto:i.cynthiagarcia@gmail.com)
