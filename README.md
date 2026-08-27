@@ -1,5 +1,5 @@
-## Hey, world! 👋
-I'm Cynthia, and I code.
+## Hey, world! 
+I'm Cynthia, and I code. 👋
 
 ### Currently working on…
 - Data Visualizations
