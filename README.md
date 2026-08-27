@@ -1,7 +1,7 @@
 ## Hey, world! 👋
 I'm Cynthia, and I code.
 
-### Current work in…
+### Currently working on…
 - Data Visualizations
 - Development and Operations
 - Ethical Hacking
